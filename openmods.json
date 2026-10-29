@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Let's Die Again!",
+  "summary": "The main menu's CONTINUE entry reads LET'S DIE AGAIN! instead (English text).",
+  "games": ["phantom-blade-zero"],
+  "tags": ["ui"],
+  "gameVersions": ["Release (Steam build 26266538)"],
+  "cover": "docs/cover.png"
+}

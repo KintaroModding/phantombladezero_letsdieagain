@@ -1,0 +1,14 @@
+{
+  "name": "Let's Die Again!",
+  "folder": "phantombladezero_letsdieagain",
+  "author": "Kintaro",
+  "version": "1.0",
+  "description": "The main menu's CONTINUE entry reads LET'S DIE AGAIN! instead (English text).",
+  "kind": "pakfile",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "paksPath": "ProjectPBZ\\Content\\Paks",
+  "gameVersion": "CL-301524_JKS-17219",
+  "engine": "UE5_7",
+  "pakName": "phantombladezero_letsdieagain_P"
+}

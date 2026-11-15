@@ -6,5 +6,5 @@
   "games": ["phantom-blade-zero"],
   "tags": ["ui"],
   "gameVersions": ["Release (Steam build 26266538)"],
-  "cover": "docs/cover.png"
+  "cover": "docs/cover.webp"
 }

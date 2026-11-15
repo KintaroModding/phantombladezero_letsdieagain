@@ -10,7 +10,7 @@ The main menu's CONTINUE entry reads LET'S DIE AGAIN! instead (English text).
 
 ## Screenshots
 
-![The main menu with LET'S DIE AGAIN! in place of CONTINUE](docs/screen1.png)
+![The main menu with LET'S DIE AGAIN! in place of CONTINUE](docs/screen1.webp)
 
 ## How to install
 
